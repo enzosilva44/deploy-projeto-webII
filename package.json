@@ -26,5 +26,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "resolutions": {
+    "chart.js": "^4.4.6"
   }
 }
